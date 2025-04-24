@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![GOJU](https://github.com/user-attachments/assets/3a9d26d7-29bc-4dce-8368-fa6d84be07c7)
+  <img src="![image](https://github.com/user-attachments/assets/ef706b87-f997-46a4-bb59-42b645d8193b)
 "/>
 </p>
 
