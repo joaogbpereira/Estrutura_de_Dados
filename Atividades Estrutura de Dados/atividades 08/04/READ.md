@@ -83,3 +83,8 @@ python Exercicio5.py
 - Python 3.6+
 
 Todos os scripts são autoexplicativos e incluem exemplos de uso ao final de cada arquivo. Basta executar cada arquivo individualmente para ver o funcionamento da estrutura de dados correspondente.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/38/f4/57/38f457c588e6b4040b5e9879abad753b.gif" width="300" alt="Gojo Satoru"/>
+</p>
+
