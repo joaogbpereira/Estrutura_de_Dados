@@ -1,5 +1,7 @@
 🐍 Explorando o Básico do Python
 
+
+
 Este repositório contém uma série de exercícios introdutórios em Python, abordando conceitos fundamentais como variáveis, tipos de dados, estruturas de controle e manipulação de listas. É um excelente ponto de partida para quem está começando na programação com Python.​
 
 ✨ Conteúdo dos Exercícios
