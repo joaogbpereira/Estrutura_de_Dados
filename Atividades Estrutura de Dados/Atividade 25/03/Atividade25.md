@@ -68,10 +68,5 @@ Esses três conceitos — **fila**, **pilha** e **lista** — são fundamentais 
 
 ---
 
-## ✍️ Autor
-
-Atividade desenvolvida por **[Seu Nome Aqui]**, como parte do conteúdo de Estrutura de Dados – Aula de 25/03.  
-Dúvidas ou sugestões? Fique à vontade para contribuir!
-
 Aluno -> JOÃO GABRIEL PEREIRA DE ARAUJO
 Curso -> Engenharia de Software
