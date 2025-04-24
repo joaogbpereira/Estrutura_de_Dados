@@ -1,6 +1,9 @@
 <h1 align="center">🐍 Explorando o Básico do Python</h1>
 
-![GOJU](https://github.com/user-attachments/assets/666d8953-f685-4fae-a1c3-a19d172aaa60)
+<p align="center">
+  <img src="![[image](https://github.com/user-attachments/assets/ef706b87-f997-46a4-bb59-42b645d8193b](https://media0.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif?cid=6c09b952737vsvuhx5kjfnaamcbjguavvzx86z7brjinevd0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g))
+"/>
+</p>
 
 
 <p align="center">
