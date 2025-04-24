@@ -1,7 +1,5 @@
 # 🧠 Estrutura de Dados – Listas Encadeadas e Ordenadas em Python
 
-![Gojo Satoru](https://media.giphy.com/media/zeXv4Sxy72RUA/giphy.gif)
-
 Este projeto é parte das atividades da disciplina de **Estrutura de Dados**, com foco na implementação de **listas encadeadas** (simples) e **listas ordenadas** em Python, utilizando conceitos básicos de ponteiros e manipulação de nós.
 
 ---
