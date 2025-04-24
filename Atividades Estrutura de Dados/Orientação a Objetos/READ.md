@@ -1,9 +1,9 @@
+<h1 align="center">🐍 Explorando o Básico do Python</h1>
+
 <p align="center">
   <img src="![image](https://github.com/user-attachments/assets/ef706b87-f997-46a4-bb59-42b645d8193b)
 "/>
 </p>
-
-<h1 align="center">🐍 Explorando o Básico do Python</h1>
 
 <p align="center">
   Este repositório contém uma série de exercícios introdutórios em Python, abordando conceitos fundamentais como variáveis, tipos de dados, estruturas de controle e manipulação de listas. É um excelente ponto de partida para quem está começando na programação com Python.
