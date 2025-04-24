@@ -1,8 +1,9 @@
 <h1 align="center">🐍 Explorando o Básico do Python</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif?cid=6c09b952737vsvuhx5kjfnaamcbjguavvzx86z7brjinevd0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="300" alt="Gojo Satoru"/>
+  <img src="https://media0.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif?cid=6c09b952737vsvuhx5kjfnaamcbjguavvzx86z7brjinevd0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="600" alt="Gojo Satoru"/>
 </p>
+
 
 
 <p align="center">
