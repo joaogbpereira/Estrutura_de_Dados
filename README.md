@@ -1,7 +1,8 @@
 # 📚 Estrutura de Dados - 🧠 Dominando os Fundamentos com Python
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/a2/c4/8ba2c4aa8d5bac8528679f0bcfc6c3d1.gif" alt="Solo Leveling" width="400">
+  <img src="![GOJU](https://github.com/user-attachments/assets/340c0c25-36b9-4937-935f-cea6ac4a7253)
+" alt="Solo Leveling" width="400">
 </p>
 
 Bem-vindo(a) ao repositório **Estrutura_de_Dados**! Este projeto foi desenvolvido como parte da disciplina de **Estrutura de Dados** na **Universidade UDF** 🎓. Aqui você encontrará **todo o conteúdo essencial** abordado na matéria — implementado com muito cuidado, dedicação e um toque de estilo Solo Leveling ⚔️.
