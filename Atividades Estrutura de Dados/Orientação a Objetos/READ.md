@@ -1,8 +1,14 @@
-🐍 Explorando o Básico do Python
+<p align="center">
+  <img src="![GOJU](https://github.com/user-attachments/assets/3a9d26d7-29bc-4dce-8368-fa6d84be07c7)
+"/>
+</p>
 
+<h1 align="center">🐍 Explorando o Básico do Python</h1>
 
+<p align="center">
+  Este repositório contém uma série de exercícios introdutórios em Python, abordando conceitos fundamentais como variáveis, tipos de dados, estruturas de controle e manipulação de listas. É um excelente ponto de partida para quem está começando na programação com Python.
+</p>
 
-Este repositório contém uma série de exercícios introdutórios em Python, abordando conceitos fundamentais como variáveis, tipos de dados, estruturas de controle e manipulação de listas. É um excelente ponto de partida para quem está começando na programação com Python.​
 
 ✨ Conteúdo dos Exercícios
 Apresentação Pessoal: Utilização de variáveis para criar uma mensagem personalizada.
