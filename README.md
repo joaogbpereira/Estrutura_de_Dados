@@ -1,9 +1,5 @@
 # 📚 Estrutura de Dados - 🧠 Dominando os Fundamentos com Python
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/223/223294.gif" alt="Solo Leveling" width="400">
-</p>
-
 Bem-vindo(a) ao repositório **Estrutura_de_Dados**! Este projeto foi desenvolvido como parte da disciplina de **Estrutura de Dados** na **Universidade UDF** 🎓. Aqui você encontrará **todo o conteúdo essencial** abordado na matéria.
 
 ---
